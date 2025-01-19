@@ -30,6 +30,7 @@ return {
         "rust_analyzer",
         "pyright",
         "sqlls",
+        "marksman"
       },
     })
   end,
